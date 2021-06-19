@@ -2,9 +2,9 @@
 # Hello Guys!!🌟  i am Greenthings🍀
 ## I hope you are doing great!!🤩️
 
-I am looking for what i love, these days i found a few things. 
+I am looking for what I love, these days found a few things. 
 
-- Programming📱 (These days, iOS)
+- Programming📱 (These days, iOS) - 2021
 - Art 🖼
 - Greens 🥬 
 
