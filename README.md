@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Greenthings&fontSize=80)
-# Hello Guys!!🌟  i am Greenthings🍀
+# Hello Guys!!🌟  I am Greenthings🍀
 ## I hope you are doing great!!🤩️
 
 I am looking for what I love, these days found a few things. 
