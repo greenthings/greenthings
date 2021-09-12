@@ -11,7 +11,7 @@ I am looking for what I love, these days found a few things.
 🍀 My Programming Languauge Experience🍀
 
   
-![](https://img.shields.io/badge/Swift-black?style=flat-square&logo=swift&logoColor=white) 
+![](https://img.shields.io/badge/Swift-red?style=flat-square&logo=swift&logoColor=white) 
 
 ![](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Jinja-red?style=flat-square&logo=Jinja&logoColor=white) 
   
