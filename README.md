@@ -4,8 +4,7 @@
 
 
 - Programming📱 (These days, iOS) - 2021
-- Art 🖼
-- Greens 🥬 
+
 
 🍀 My Programming Languauge Experience🍀
 
