@@ -2,7 +2,6 @@
 # Hello Guys!!🌟  I am Greenthings🍀
 ## I hope you are doing great!!🤩️
 
-I am looking for what I love, these days found a few things. 
 
 - Programming📱 (These days, iOS) - 2021
 - Art 🖼
