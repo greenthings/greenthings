@@ -16,4 +16,4 @@
 
 🍀 Coworking Tool Experience 🍀
 
-![](https://img.shields.io/badge/Git-black?style=flat-square&logo=swift&logoColor=green) ![](https://img.shields.io/badge/Github-white?style=flat-square&logo=swift&logoColor=red) ![](https://img.shields.io/badge/Slack-white?style=flat-square&logo=swift&logoColor=red) ![](https://img.shields.io/badge/Jira-white?style=flat-square&logo=swift&logoColor=red)![](https://img.shields.io/badge/Figma-white?style=flat-square&logo=swift&logoColor=red) 
+![](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=green) ![](https://img.shields.io/badge/Github-white?style=flat-square&logo=github&logoColor=red) ![](https://img.shields.io/badge/Slack-white?style=flat-square&logo=slack&logoColor=red) ![](https://img.shields.io/badge/Jira-white?style=flat-square&logo=jira&logoColor=red)![](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=red) 
