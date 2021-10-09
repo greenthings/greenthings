@@ -20,5 +20,6 @@
 
 
 
-🍀
+🍀 Activity 🍀 
+
 [![Open Source Helpers](https://www.codetriage.com/airbnb/lottie-ios/badges/users.svg)](https://www.codetriage.com/airbnb/lottie-ios)
