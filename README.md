@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Welcome&fontSize=80)
 
 - Programming📱 (iOS) - 2021
 
