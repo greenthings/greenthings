@@ -2,7 +2,6 @@
 
 - Programming📱 (iOS) - 2021
 
-![](https://www.codewars.com/users/greenthings/badges/large)
 
 🍀 Programming Languauge Experience 🍀
 
@@ -24,3 +23,5 @@
 🍀 Activity 🍀 
 
 [![Open Source Helpers](https://www.codetriage.com/airbnb/lottie-ios/badges/users.svg)](https://www.codetriage.com/airbnb/lottie-ios)
+
+![](https://www.codewars.com/users/greenthings/badges/large)
