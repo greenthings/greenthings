@@ -26,3 +26,10 @@
 [![Open Source Helpers](https://www.codetriage.com/airbnb/lottie-ios/badges/users.svg)](https://www.codetriage.com/airbnb/lottie-ios)
 
 ![](https://www.codewars.com/users/greenthings/badges/large)
+
+
+🍀 Connect 🍀 
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mnhfn8hj@gmail.com)](mailto:mnhhfn8hj01@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jun-s-839b3b19a/)](https://www.linkedin.com/in/jun-s-839b3b19a/)
