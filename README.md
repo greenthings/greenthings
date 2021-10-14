@@ -4,7 +4,7 @@
 - Embeded🚗 (Raspberry Pi) - 2019 ~ 2020
 - Programming🤖 (Android) - 2017 ~ 2019
 
-🍀 Programming Languauge Experience 🍀
+🍀 Programming Languauge Experience
 
 ![](https://img.shields.io/badge/Swift-white?style=flat-square&logo=swift&logoColor=red) 
 
@@ -15,20 +15,20 @@
 
 ![](https://img.shields.io/badge/HTML-pink?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-d?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/CSS-lightblue?style=flat-square&logo=css3&logoColor=white)
 
-🍀 Coworking Tool Experience 🍀
+🍀 Coworking Tool Experience
 
 ![](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=red) ![](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=orange) ![](https://img.shields.io/badge/Gitpod-black?style=flat-square&logo=gitpod&logoColor=darkblue) ![](https://img.shields.io/badge/Slack-black?style=flat-square&logo=slack&logoColor=yellow) ![](https://img.shields.io/badge/Jira-black?style=flat-square&logo=jira&logoColor=green) ![](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=purple) 
 
 
 
-🍀 Activity 🍀 
+🍀 Activity
 
 [![Open Source Helpers](https://www.codetriage.com/airbnb/lottie-ios/badges/users.svg)](https://www.codetriage.com/airbnb/lottie-ios)
 
 ![](https://www.codewars.com/users/greenthings/badges/large)
 
 
-🍀 Connect 🍀 
+🍀 Connect
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mnhfn8hj@gmail.com)](mailto:mnhhfn8hj01@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jun-s-839b3b19a/)](https://www.linkedin.com/in/jun-s-839b3b19a/)
