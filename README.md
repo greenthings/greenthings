@@ -6,7 +6,7 @@
 
 🍀 Programming Languauge Experience
 
-intermediate
+Intermediate
 
 ![](https://img.shields.io/badge/Swift-white?style=flat-square&logo=swift&logoColor=red) 
 
