@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Welcome&fontSize=80)
 
-- Programming📱 (iOS) - 2021
+- Programming🍎 (iOS) - 2021
 - Embeded🚗 (Raspberry Pi) - 2019 ~ 2020
 - Programming🤖 (Android) - 2017 ~ 2019
 
