@@ -16,7 +16,7 @@ Basic
 
 ![](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Jinja-gray?style=flat-square&logo=Jinja&logoColor=white) 
   
-![](https://img.shields.io/badge/C++-green?style=flat-square&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/C-yellow?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/Object-C-deepgreen?style=flat-square&logo=object-c#&logoColor=white)
+![](https://img.shields.io/badge/C++-green?style=flat-square&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/C-yellow?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/Object-C-deepgreen?style=flat-square&logo=objectivec#&logoColor=white)
 
 ![](https://img.shields.io/badge/HTML-pink?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-d?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/CSS-lightblue?style=flat-square&logo=css3&logoColor=white)
 
