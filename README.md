@@ -28,7 +28,7 @@ Basic
 
 Winner of WWDC22 Swift Student Challenge
 
-[![Open Source Helpers](https://www.codetriage.com/airbnb/lottie-ios/badges/users.svg)](https://www.codetriage.com/airbnb/lottie-ios)
+ <!--[![Open Source Helpers](https://www.codetriage.com/airbnb/lottie-ios/badges/users.svg)](https://www.codetriage.com/airbnb/lottie-ios)-->
 
 
 
