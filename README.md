@@ -10,13 +10,6 @@ Intermediate
 
 ![](https://img.shields.io/badge/Swift-white?style=flat-square&logo=swift&logoColor=red) 
 
-Basic
-
-![](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Jinja-gray?style=flat-square&logo=Jinja&logoColor=white) 
-  
-
-![](https://img.shields.io/badge/C_sharp-purple?style=flat-square&logo=Csharp#&logoColor=white) ![](https://img.shields.io/badge/C-yellow?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/ObjectiveC-deepgreen?style=flat-square&logo=objectivec#&logoColor=white)
-
 
 🍀 Coworking Tool Experience
 
@@ -36,3 +29,13 @@ Winner of WWDC22 Swift Student Challenge
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mnhfn8hj@gmail.com)](mailto:mnhhfn8hj01@gmail.com)
 
+
+🍀 Ref
+
+
+Basic
+
+![](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Jinja-gray?style=flat-square&logo=Jinja&logoColor=white) 
+  
+
+![](https://img.shields.io/badge/C_sharp-purple?style=flat-square&logo=Csharp#&logoColor=white) ![](https://img.shields.io/badge/C-yellow?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/ObjectiveC-deepgreen?style=flat-square&logo=objectivec#&logoColor=white)
