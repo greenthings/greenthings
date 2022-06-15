@@ -16,14 +16,22 @@ Intermediate
 ![](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=red) ![](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=orange) ![](https://img.shields.io/badge/Gitpod-black?style=flat-square&logo=gitpod&logoColor=darkblue) ![](https://img.shields.io/badge/Slack-black?style=flat-square&logo=slack&logoColor=yellow) ![](https://img.shields.io/badge/Jira-black?style=flat-square&logo=jira&logoColor=green) ![](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=purple) 
 
 
-
 🍀 Activity
+ 
+<details>
+  <summary>Winner of WWDC22 Swift Student Challenge
+  <!--[![Open Source Helpers](https://www.codetriage.com/airbnb/lottie-ios/badges/users.svg)](https://www.codetriage.com/airbnb/lottie-ios)--></summary>
 
-Winner of WWDC22 Swift Student Challenge
+https://github.com/greenthings/GreenWorld
+ 
+</details>
 
- <!--[![Open Source Helpers](https://www.codetriage.com/airbnb/lottie-ios/badges/users.svg)](https://www.codetriage.com/airbnb/lottie-ios)-->
+<details>
+  <summary>Korea's representative speaker</summary>
 
-
+https://twitter.com/tim_cook/status/1533579556405248000
+ 
+</details>
 
 🍀 Connect
 
