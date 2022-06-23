@@ -27,7 +27,7 @@ https://github.com/greenthings/GreenWorld
 </details>
 
 <details>
-  <summary>Korea's representative speaker</summary>
+  <summary>Korea's Representative Speaker</summary>
 
 https://twitter.com/tim_cook/status/1533579556405248000
  
