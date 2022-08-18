@@ -41,3 +41,7 @@ Intermediate
 🍀 Connect
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mnhfn8hj@gmail.com)](mailto:mnhhfn8hj01@gmail.com)
+
+🍀 Portfolio
+
+https://thankful-birth-b68.notion.site/Portfolio-3c36106697654e17a0f7c8de4ac54613
