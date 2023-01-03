@@ -44,4 +44,4 @@ Intermediate
 
 🍀 Portfolio
 
-https://www.notion.so/Portfolio_ing-e21ef6ec7eab495d9dc27c179426da3d
+[https://www.notion.so/Portfolio_ing-e21ef6ec7eab495d9dc27c179426da3d](https://thankful-birth-b68.notion.site/Portfolio-by-JUN-f542ce5def09491ea86ab51eed1a61b1)
