@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&section=header&text=Welcome&fontSize=60)
 
-- App🍎 (iOS) - 2021 ~
-- Embeded🚗 (Raspberry Pi3, Arduino) - 2019 ~ 2020
-- App🤖 (Android) - 2017 ~ 2019
-
 🍀 Activity
  
 <details>
