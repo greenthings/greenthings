@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&section=header&text=Welcome&fontSize=60)
-
 🍀 Activity
  
 <details>
@@ -16,14 +14,6 @@ https://github.com/greenthings/GreenWorld
 https://twitter.com/tim_cook/status/1533579556405248000
  
 </details>
-
-
-🍀 Programming Languauge Experience
-
-Intermediate
-
-![](https://img.shields.io/badge/Swift-white?style=flat-square&logo=swift&logoColor=red) 
-
 
 🍀 Coworking Tool Experience
 
